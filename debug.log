@@ -1,0 +1,3 @@
+debug ospf
+debug bgp
+debug hsrp
