@@ -2,3 +2,5 @@ new new new file
 best file ever
 
 added a line
+
+added second line
