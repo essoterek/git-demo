@@ -17,3 +17,5 @@ THIRD FROM THE MASTER
 Last line for pull request test
 
 EDIT FROM CONFLICT TEST BRANCH
+
+I MEAN IT
