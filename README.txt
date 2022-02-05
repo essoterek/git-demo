@@ -12,4 +12,6 @@ blah blah blah blah
 
 I'm in the middle of working on this file
 
+THIRD FROM THE MASTER
+
 Last line for pull request test
