@@ -1,1 +1,5 @@
+#Ignore all log files
 *.log
+
+# ignore folder
+html/
